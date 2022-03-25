@@ -1,3 +1,4 @@
+#create Erbol Alauaddinov
 from config import *
 from aiogram import executor, types
 from key import *
